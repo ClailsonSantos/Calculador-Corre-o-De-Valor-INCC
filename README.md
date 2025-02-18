@@ -1,7 +1,7 @@
 ### Calculadora de Correção Monetária 💰  
-Este é um script em Python que calcula a correção de um valor inicial baseado em taxas de correção diárias extraídas de um arquivo Excel 📊.  
-O programa utiliza a biblioteca pandas para ler os dados e a datetime para lidar com datas 📅.  
-O cálculo é feito levando em consideração a quantidade de dias passados desde uma data de referência até o dia atual.
+- Este é um script em Python que calcula a correção de um valor inicial baseado em taxas de correção diárias extraídas de um arquivo Excel 📊.  
+- O programa utiliza a biblioteca pandas para ler os dados e a datetime para lidar com datas 📅.  
+- O cálculo é feito levando em consideração a quantidade de dias passados desde uma data de referência até o dia atual.
 
 ### Requisitos 📦
 
@@ -12,8 +12,8 @@ O cálculo é feito levando em consideração a quantidade de dias passados desd
 
 Para o programa funcionar corretamente, deve-se instalar as bibliotecas pandas e openpyxl.    
 
-pip install openpyxl  
-pip install pandas  
+- pip install openpyxl  
+- pip install pandas  
 
 ![Imagem de exemplo](assets/exemplo.png)
 
